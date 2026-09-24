@@ -1,0 +1,7 @@
+{
+  "name": "Inducción SENA 360° - Guía Interactiva & Acuerdo 009",
+  "description": "Plataforma de inducción institucional y normatividad SENA basada en el Acuerdo 009 de 2024 con asistente pedagógico y simulador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
